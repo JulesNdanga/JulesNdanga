@@ -1,7 +1,7 @@
 <h1 align="center">Salut :wave:, Je suis Jules NDANGA</h1>
 <h3 align="center">Je suis un développeur de logiciels passionné depuis mon enfance. Je travaille en tant qu'ingénieur logiciel senior Full Stack.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JulesNdanga&label=Profile%20views&color=0e75b6&style=flat" alt="JulesNdanga" /> </p>
-- :office: Je travaille actuellement sur Cloud Bank(www.inetconsulting.cm/), qui est un logiciel de gestion bancaire pour micro finance. <br>
+- :office: Je travaille actuellement sur Kodalas(https://kodalas.com), qui est une plateeforme de digital market. <br>
 - :notebook: J'étudie actuellement **les tests de performance et Gatling** <br>
 - :clipboard: Tous mes projets sont disponibles sur https://github.com/JulesNdanga <br>
 - :e-mail: Comment me joindre **julesndanga7@gmail.com** <br>
